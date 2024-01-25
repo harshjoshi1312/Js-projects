@@ -1,0 +1,57 @@
+body{
+    background:#edeaff ;
+}
+.stopwatch{
+   width: 500px;
+   height: 330px;
+   text-align: center;
+   justify-content: center;
+   background-image: url(images/bACKGROUND.jpeg); 
+   /*background-color: rgb(178, 222, 238); */
+   padding: 100px;
+   margin-top: 100px;
+   margin-left: 450px;
+   border-radius: 20px;
+   border: 2px solid black;
+   background-size: cover;
+   background-position: center;
+
+
+}
+h1{
+    text-align: center;
+    color: black;
+    font-size: 60px;
+    font-weight: 100;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.start{
+    height:50px;
+    box-shadow: 10;
+    width: 60px;
+
+}
+.stop{
+    height:50px;
+
+}
+.reset{
+    height:50px;
+
+}
+h2{
+    text-align: center;
+    color: blueviolet;
+    text-decoration: underline;
+}
+
+.buttons{
+    padding: 100;
+    margin: 100px;
+    padding-right: 10px;
+}
+.buttons img{
+    margin: 20px;
+    cursor: pointer;
+    background:none
+}
