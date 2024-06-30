@@ -15,7 +15,7 @@ This project generates random passwords with a mix of characters, numbers, and s
 - Easy-to-use interface with real-time password generation.
 
 **Screenshot:**
-![Project 1 Screenshot](/screenshots/screenshot1.png)
+![Project 1 Screenshot](/screenshots/screenshot2.png)
 
 **Live at:**
 [Random Pass Generator](https://harshjoshi1312.github.io/Js-projects/1-%20random%20pass%20generator/)
@@ -33,7 +33,7 @@ This project generates QR codes for any input text or URL, making it easy to sha
 - Allows for downloading generated QR codes.
 
 **Screenshot:**
-![Project 2 Screenshot](/screenshots/screenshot2.png)
+![Project 2 Screenshot](/screenshots/screenshot1.png)
 
 **Live at:**
 [QR Generator](https://harshjoshi1312.github.io/Js-projects/2%20-Qr%20genertaor/)
@@ -51,7 +51,7 @@ This project is a functional stopwatch that allows you to start, stop, and reset
 - Clean and user-friendly interface.
 
 **Screenshot:**
-![Project 3 Screenshot](/screenshots/screenshot3.png)
+![Project 3 Screenshot](/screenshots/scrennshot3.png)
 
 **Live at:**
 [Stopwatch](https://harshjoshi1312.github.io/Js-projects/3%20-%20Stop%20Watch/)
